@@ -1,0 +1,30 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.bgimg{
+    background-image: url('/img/banner_back.jpg');
+    background-size: 98% 100%;
+    background-repeat: no-repeat;
+    height: 600px ;
+}
+
+.btn1{
+    padding: 10px 60px;
+}
+
+.bannerLeft .innerLeft h1 {
+    font-size: 47px;
+    color: #fff;
+    padding-top: 80px;
+    line-height: 55px;
+}
+
+.typewrite{
+    margin-top: 30px;
+}
+.bottom_line{
+    border-bottom: 2px solid #fff;
+    width: 146px;
+    margin-top: 5px
+}
